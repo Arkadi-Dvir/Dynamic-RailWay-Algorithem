@@ -1,5 +1,5 @@
 # Dynamic-RailWay-Algorithm
-This program calculates the minimum of railway project by the given inputs.
+This program calculates the minimal price of a railway project by the given inputs.
 The RailWay problem:
   In this problem we build a railway length of L. We also get the next parameters (price, length, left-type connection, rigth-type connection) for each part.
   The left-type and rigth-type connections defines to us which connection can be connected from left or right.
